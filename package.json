@@ -1,0 +1,19 @@
+{
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "description": "tutorial for learning typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufkaracaburun/typescript-tutorial.git"
+  },
+  "author": "Yusuf Karacaburun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufkaracaburun/typescript-tutorial/issues"
+  },
+  "homepage": "https://github.com/yusufkaracaburun/typescript-tutorial#readme"
+}
